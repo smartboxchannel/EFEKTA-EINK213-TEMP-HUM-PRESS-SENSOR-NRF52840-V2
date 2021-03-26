@@ -22,6 +22,9 @@ More info at http://efektalab.com/eink213
 ![EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR (MINI WEATHER STATION ON NRF52](https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52840-V2/blob/master/IMAGES/V2.1(B).png) 
 
 
+![EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR (MINI WEATHER STATION ON NRF52](https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52840-V2/blob/master/IMAGES/promo01.png) 
+
+
 ---
 
 
