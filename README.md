@@ -1,7 +1,11 @@
 # EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52
 Micro weather station. Wireless temperature, humidity, pressure, weather forecast and light sensor. Designed on the nRF52840 wireless radio module. The temperature, humidity and pressure sensor BME280, SHT20, SHT21, SI7020, SI7021, HTU20D, HTU21D is used. Light sensor MAX44009. The device is powered by a CR2450 battery. Power consumption when transmitting data is 8mA, in sleep mode is 4.7uA.
 
-https://ali.ski/05GbQ
+GDEH0213B72 (GDEH0213B73, Waveshare V2): https://ali.ski/05GbQ
+250x122,2.13inch E-Ink raw display panel Without PCB Communicate via SPI interface
+
+MS88SF3: https://ali.ski/I_UNg
+(New FCC CE RoHs Certificated Compact (18.5×12.5×2mm) and Flexible ultra-low power wireless BLE 5.0 Module based on nRF52840 SoCs)
 
 #### Don't donate to me, it doesn't work in this world: https://paypal.me/efektalab , just buy
 
