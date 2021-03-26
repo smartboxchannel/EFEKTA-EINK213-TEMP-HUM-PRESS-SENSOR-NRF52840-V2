@@ -45,9 +45,9 @@ https://www.arduino.cc/en/Guide/PortableIDE
 
 #### 6. Add the libraries in the archive () https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52840-V2/tree/master/CODE/Arduino/libraries  of this project to the libraries folder on your computer ( path: ...\Documents\Arduino\libraries )
 
-#### 7. Create an EINK213ED1 folder on your computer under the Arduino directory (Documents \ Arduino). Add the files of this project located in the Arduino section (https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52840-V2/tree/master/CODE/Arduino) to the created EINK213ED1 folder
+#### 7. Create an EINK213ED2 folder on your computer under the Arduino directory (Documents \ Arduino). Add the files of this project located in the Arduino section (https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52840-V2/tree/master/CODE/Arduino) to the created EINK213ED2 folder
 
-#### 8. Open the EINK213ED1.ino file in the Arduino IDE program, go to the aConfig.h tab and configure according to your board version and settings of your MySensors network.
+#### 8. Open the EINK213ED2.ino file in the Arduino IDE program, go to the aConfig.h tab and configure according to your board version and settings of your MySensors network.
 
 #### 9. In the main menu of the Arduino IDE go to Tools-> Boards-> Nordic Semiconductors nRF5 Boards, in the list that opens, select the EFEKTA MWS213 V2 nRF52840 board. In the menu of the selected board, select the type of clock crystal (external), also select the Reset: Enable item.
 
