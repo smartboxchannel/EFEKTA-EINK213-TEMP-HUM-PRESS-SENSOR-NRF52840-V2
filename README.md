@@ -19,7 +19,7 @@ More info at http://efektalab.com/eink213
 
 ---
 
-![EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR (MINI WEATHER STATION ON NRF52](https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52/blob/main/Images/0010.jpg) 
+![EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR (MINI WEATHER STATION ON NRF52](https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52840-V2/blob/master/IMAGES/V2.1(B).png) 
 
 
 ---
@@ -39,13 +39,13 @@ https://www.arduino.cc/en/Guide/PortableIDE
 
 #### 3. Download the archive of this project to your computer
 
-#### 4. Add support for devices of this project to the arduino-nRF5 library, the description is in the README.md file (https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52/blob/main/for_sandeepmistry_nRF5/README.md)
+#### 4. Add support for devices of this project to the arduino-nRF5 library, the description is in the README.md file (https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52840-V2/tree/master/for_sandeepmistry_nRF5/README.md)
 
 #### 5. Add support for interrupts via gpiote, for this go to the ... packages \ sandeepmistry \ hardware \ nRF5 \ 0.7.0 \ cores \ nRF5 folder, and in the WInterrupts.c file, before the void GPIOTE_IRQHandler () function, add the line: \_\_attribute\_\_ ((weak ))
 
-#### 6. Add the libraries in the archive () https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52/tree/main/CODE/Arduino/libraries  of this project to the libraries folder on your computer ( path: ...\Documents\Arduino\libraries )
+#### 6. Add the libraries in the archive () https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52840-V2/tree/master/CODE/Arduino/libraries  of this project to the libraries folder on your computer ( path: ...\Documents\Arduino\libraries )
 
-#### 7. Create an EINK213ED1 folder on your computer under the Arduino directory (Documents \ Arduino). Add the files of this project located in the Arduino section (https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52/tree/main/CODE/Arduino) to the created EINK213ED1 folder
+#### 7. Create an EINK213ED1 folder on your computer under the Arduino directory (Documents \ Arduino). Add the files of this project located in the Arduino section (https://github.com/smartboxchannel/EFEKTA-EINK213-TEMP-HUM-PRESS-SENSOR-NRF52840-V2/tree/master/CODE/Arduino) to the created EINK213ED1 folder
 
 #### 8. Open the EINK213ED1.ino file in the Arduino IDE program, go to the MyConfig.h tab and configure according to your board version and settings of your MySensors network.
 
