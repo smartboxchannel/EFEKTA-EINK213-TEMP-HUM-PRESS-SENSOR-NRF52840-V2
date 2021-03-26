@@ -13,7 +13,7 @@ Micro weather station. Wireless temperature, humidity, pressure, weather forecas
 
 #### Sale: https://www.tindie.com/products/diyberk/multisensor-with-an-e-ink-display-213-inch/
 
-Video: 
+Video: https://youtu.be/EHj37hnhy64
 
 More info at http://efektalab.com/eink213
 
