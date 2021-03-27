@@ -55,3 +55,62 @@ https://www.arduino.cc/en/Guide/PortableIDE
 #### 9. In the main menu of the Arduino IDE go to Tools-> Boards-> Nordic Semiconductors nRF5 Boards, in the list that opens, select the EFEKTA MWS213 V2 nRF52840 board. In the menu of the selected board, select the type of clock crystal (external), also select the Reset: Enable item.
 
 #### 10. Click on the icon - check and then download
+
+---
+
+## BOM
+
+---
+
+MINEW MS88SF3 FCC CE RoHs Certificated wireless module nRF52840 SoCs - https://ali.ski/9LnWZ (1 pc - $7.75)
+
+MAX44009EDT  - https://ali.ski/_PLrJ  (5 pcs - $9.3)
+OR
+MAX44009EDT  - https://ali.ski/bZoMnn  (1 pc - $1.9)
+
+BME280 - https://ali.ski/wLEIir (2 pcs - $11.5)
+
+Waveshare 250x122 2,13 - https://ali.ski/D4eOVU (1pc - $12.3)
+
+FPC FFC 0.5mm connector socket 24 pin - https://ali.ski/lCBot0 (1 p - $0.77)
+
+Cell Holder CR2450 - https://ali.ski/gMd2Y (10 pcs - $2)
+
+Micro Screws M1.4 3mm - https://ali.ski/gaFdO (100 pcs - $1)
+
+Micro Screws M1.4 5mm - https://ali.ski/gaFdO (100 pcs - $1)
+
+Micro SMD Tact Switch 2x4 2*4*3.5 - https://ali.ski/_D78Q (10 pcs - $1)
+
+Neodymium magnet 15x3x3m - https://ali.ski/44p3R (10 pcs - $7)
+
+Tantalum Capacitor 100UF 10V - https://ali.ski/Lx9iQd (10 pcs - $1,85)
+
+Inductor Power Shielded Wirewound NR5040 5x5x4mm - https://ali.ski/iblu8q (50 pcs - $3)
+
+Micro Button Tact Switch SMD 4Pin 3X4X2.5 - https://ali.ski/sGwFu (100 pcs - $1.7)
+
+SMD Mini Toggle Slide Switch 7-Pin On/Off - https://ali.ski/xz9Yt (100 pcs - $3.2)
+
+SI1308EDL - https://ali.ski/Q6Y12 (20 pcs - $5.3)
+OR
+Si1304BDL - https://ali.ski/938Klh (100 pcs - $15.5)
+
+SMD Chip Multilayer Ceramic Capacitor 0603 1UF 25V - https://ali.ski/p3yr60 (100 pcs - $1.5)
+
+SMD Chip Multilayer Ceramic Capacitor 0603 0.1UF 50V - https://ali.ski/p3yr60 (100 pcs - $1.5)
+
+SMD Chip Multilayer Ceramic Capacitor 0805 4.7UF - https://ali.ski/iFXAc (100 pcs - $1.85)
+
+MBR0530T1G - https://ali.ski/SJM7aK (100 pcs - $1.1)
+
+SMD LED 0805 - https://ali.ski/wb6ZP (100 pcs - $2)
+
+1% SMD resistor 0.47R 0603 - https://ali.ski/bX9HUg (100 pcs - $1.2)
+
+1% SMD Resistor Kit Assorted Kit 1R-1M 0603 -  https://ali.ski/npItF (660 pcs - $1.45)
+
+
+SUNLU PLA Carbon Fiber Premium 3D Printer Filament - https://ali.ski/bQkNR (1 pcs - $26.5)
+
+405nm UV Resin For 3d Printer - https://ali.ski/sW0MUm (1 pcs - $18.5)
