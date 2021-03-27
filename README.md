@@ -58,10 +58,9 @@ https://www.arduino.cc/en/Guide/PortableIDE
 
 ---
 
-
-## BOM
-
 ---
+
+## Components (BOM):
 
 MINEW MS88SF3 FCC CE RoHs Certificated wireless module nRF52840 SoCs - https://ali.ski/9LnWZ (1 pc - $7.75)
 
