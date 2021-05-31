@@ -17,19 +17,18 @@
 //                                                                                                                           //
 // ######################################################################################################################### //
 
-
+//#define BME280INSTALLED
 //#define MY_DEBUG
 //#define LANG_RU // If this is not used the English localization will be displayed.
-//#define MARBLE_CASE // otherwise if not activated then CARBON_CASE
 #define SN "EFEKTA MultiSensor eInk"
-#define SV "0.89"
+#define SV "0.95"
 #define MY_RADIO_NRF5_ESB
 #define MY_NRF5_ESB_PA_LEVEL (0x8UL)
 //#define MY_PASSIVE_NODE
 //#define MY_NODE_ID 151
 //#define MY_NRF5_ESB_MODE (NRF5_1MBPS)
 #define MY_NRF5_ESB_MODE (NRF5_250KBPS)
-
-#define LIGHTSENS
+#define ESPECIALLY
+//#define LIGHTSENS
 #define SEND_RESET_REASON
 #define MY_RESET_REASON_TEXT

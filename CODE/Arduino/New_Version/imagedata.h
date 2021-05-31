@@ -1,4 +1,5 @@
 
+extern const unsigned char Especially[];
 extern const unsigned char IMAGE_LOGO0[];
 extern const unsigned char IMAGE_LOGO1[];
 extern const unsigned char IMAGE_LOGO2[];
